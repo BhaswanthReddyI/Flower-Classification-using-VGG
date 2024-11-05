@@ -1,4 +1,4 @@
-# Image Classifier Project
+# Flower Classification using VGG16
 
 This project is an image classification model that classifies images of flowers into different species categories using transfer learning with the pre-trained VGG16 model. The project is implemented in Jupyter Notebook, utilizing deep learning techniques to achieve high classification accuracy on the Oxford Flowers dataset.
 
@@ -54,13 +54,13 @@ pip install -r requirements.txt
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/yourusername/Image-Classifier-Project.git
+    git clone https://github.com/BhaswanthReddyI/Flower-Classification-using-VGG16.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd Image-Classifier-Project
+    cd Flower-Classification-using-VGG16
     ```
 
 3. Install the required dependencies as mentioned above.
