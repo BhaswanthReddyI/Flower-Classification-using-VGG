@@ -12,7 +12,6 @@ This project is an image classification model that classifies images of flowers 
 - [Usage](#usage)
 - [Results](#results)
 - [Future Work](#future-work)
-- [License](#license)
 
 ## Project Overview
 
