@@ -44,11 +44,6 @@ To run this project, install the following dependencies:
 - Matplotlib
 - scikit-learn
 
-To install the dependencies, use:
-
-```bash
-pip install -r requirements.txt
-```
 ## Installation
 
 1. Clone this repository:
